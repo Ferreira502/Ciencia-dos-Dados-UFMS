@@ -1,4 +1,4 @@
-# Feito por Gabriel Ferreira Pereira
+# Feito por Gabriel Ferreira Pereira e postado em https://github.com/Ferreira502/Ciencia-dos-Dados-UFMS
 # Checkout de Presença e Avaliação da Aprendizagem do Módulo 3 - Entrada, saída de dados e modularização
 
 # funcao para calcular o consumo de combustivel
