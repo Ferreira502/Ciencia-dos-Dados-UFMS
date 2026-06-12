@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 
 from time import sleep, time
 from ev3dev2.motor import MoveTank, OUTPUT_A, OUTPUT_B, SpeedPercent
