@@ -1,0 +1,24 @@
+{
+  "name": "singleFollowerObstacle",
+  "description": "Mapa de portas esperado pelo main.py para seguir a linha e desviar dos cubos.",
+  "motors": {
+    "outA": "motor_esquerdo",
+    "outB": "motor_direito",
+    "outC": "opcional"
+  },
+  "sensors": {
+    "in1": "ColorSensor",
+    "in2": "UltrasonicSensor",
+    "in3": "opcional",
+    "in4": "opcional",
+    "in5": "ColorSensor"
+  },
+  "behavior": {
+    "line_following": "dois sensores de cor",
+    "obstacle_detection": "sensor ultrassonico frontal"
+  },
+  "notes": [
+    "No configurador do GearsBot, deixe exatamente um sensor de cor na in1, um ultrassonico na in2 e outro sensor de cor na in5.",
+    "O codigo main.py foi escrito para essa combinacao de portas."
+  ]
+}
