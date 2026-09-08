@@ -1,0 +1,186 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+2 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Length 3332 >>
+stream
+BT /F2 20 Tf 1 0 0 1 50 790 Tm (Atividade 04 - Pensamento Computacional) Tj ET
+BT /F2 16 Tf 1 0 0 1 50 760 Tm (EcoColeta: jogo educativo em Scratch) Tj ET
+BT /F2 14 Tf 1 0 0 1 50 734 Tm (1. Descricao do problema) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 710 Tm (Um problema comum no cotidiano de escolas, bairros e espacos publicos e o) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 694 Tm (descarte incorreto de residuos reciclaveis. Muitas pessoas querem colaborar com) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 678 Tm (a coleta seletiva, mas ainda possuem duvidas sobre onde descartar papel,) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 662 Tm (plastico, vidro e metal.) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 638 Tm (Na comunidade escolar, esse problema aparece principalmente em momentos de) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 622 Tm (lanche, eventos e uso compartilhado de salas. Garrafas plasticas, latas e) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 606 Tm (papeis sao jogados no lixo errado por falta de orientacao imediata e de uma) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 590 Tm (forma simples de aprendizado.) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 566 Tm (- falta de conhecimento sobre a separacao correta dos residuos;) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 550 Tm (- pouca estimulacao para aprender o tema de forma pratica;) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 534 Tm (- dificuldade de transformar orientacoes teoricas em uma acao rapida no dia a) Tj ET
+BT /F1 12 Tf 1 0 0 1 64 518 Tm (dia.) Tj ET
+BT /F2 14 Tf 1 0 0 1 50 494 Tm (2. Solucao digital proposta) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 470 Tm (A solucao proposta e um jogo educativo desenvolvido no Scratch chamado) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 454 Tm (EcoColeta. Nele, o jogador deve arrastar um residuo ate a lixeira correta. Cada) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 438 Tm (acerto gera pontos e uma mensagem positiva. Cada erro gera uma orientacao curta) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 422 Tm (explicando a separacao correta.) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 398 Tm (A proposta usa uma ferramenta acessivel e visual para ensinar, de forma ludica,) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 382 Tm (uma habilidade util para a escola e para a comunidade.) Tj ET
+BT /F2 14 Tf 1 0 0 1 50 358 Tm (3. Aplicacao dos pilares do PC) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 334 Tm (Decomposicao: o problema foi dividido em partes menores para facilitar o) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 318 Tm (planejamento.) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 294 Tm (- identificar os tipos principais de residuos reciclaveis;) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 278 Tm (- definir as lixeiras correspondentes;) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 262 Tm (- criar a mecanica de interacao do jogador;) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 246 Tm (- registrar acertos, erros e pontuacao;) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 230 Tm (- exibir mensagens educativas e tela final.) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 206 Tm (Reconhecimento de padroes: foram observados comportamentos que se repetem.) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 182 Tm (- os mesmos tipos de residuos aparecem com frequencia no dia a dia;) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 166 Tm (- os erros de descarte costumam se repetir;) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 150 Tm (- o aprendizado melhora com retorno imediato sobre acerto ou erro.) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 126 Tm (Abstracao: o problema real foi simplificado para destacar apenas os elementos) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 110 Tm (essenciais.) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 12 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R /F3 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 414 >>
+stream
+BT /F1 12 Tf 1 0 0 1 50 790 Tm (- foram considerados apenas quatro grupos principais: papel, plastico, vidro e) Tj ET
+BT /F1 12 Tf 1 0 0 1 64 774 Tm (metal;) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 758 Tm (- cada rodada apresenta um unico residuo por vez;) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 742 Tm (- o foco nao e representar todo o sistema da cidade, mas ensinar a decisao) Tj ET
+BT /F1 12 Tf 1 0 0 1 64 726 Tm (correta.) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 12 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R /F3 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 2747 >>
+stream
+BT /F2 14 Tf 1 0 0 1 50 790 Tm (3. Aplicacao dos pilares do PC) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 766 Tm (Desenvolvimento de algoritmos: o jogo segue uma sequencia logica de execucao.) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 742 Tm (1. iniciar o jogo e zerar a pontuacao;) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 726 Tm (2. definir o tempo da partida;) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 710 Tm (3. sortear um residuo;) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 694 Tm (4. mostrar o residuo ao jogador;) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 678 Tm (5. verificar a lixeira escolhida;) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 662 Tm (6. comparar a resposta com o tipo correto do item;) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 646 Tm (7. atualizar pontuacao e mensagem de retorno;) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 630 Tm (8. repetir o processo ate o tempo acabar;) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 614 Tm (9. exibir o resultado final.) Tj ET
+BT /F2 14 Tf 1 0 0 1 50 590 Tm (4. Representacao da solucao no Scratch) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 566 Tm (A figura abaixo representa a organizacao da tela principal do projeto no) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 550 Tm (Scratch. O residuo aparece na parte superior, o jogador o arrasta e depois) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 534 Tm (clica na lixeira correspondente para validar a resposta.) Tj ET
+80 360 430 280 re S
+BT /F2 16 Tf 1 0 0 1 230 616 Tm (EcoColeta) Tj ET
+BT /F1 11 Tf 1 0 0 1 100 592 Tm (Tempo: 60) Tj ET
+BT /F1 11 Tf 1 0 0 1 400 592 Tm (Pontuacao: 0) Tj ET
+BT /F1 11 Tf 1 0 0 1 150 560 Tm (Arraste o lixo ate a lixeira certa e clique na lixeira.) Tj ET
+0.85 g 260 525 70 40 re f 0 g
+BT /F1 11 Tf 1 0 0 1 278 540 Tm (Lixo) Tj ET
+BT /F1 10 Tf 1 0 0 1 250 510 Tm (ator com varias fantasias) Tj ET
+180 395 82 70 re S
+BT /F1 11 Tf 1 0 0 1 198 423 Tm (Papel) Tj ET
+275 395 82 70 re S
+BT /F1 11 Tf 1 0 0 1 293 423 Tm (Plastico) Tj ET
+370 395 82 70 re S
+BT /F1 11 Tf 1 0 0 1 388 423 Tm (Vidro) Tj ET
+465 395 82 70 re S
+BT /F1 11 Tf 1 0 0 1 483 423 Tm (Metal) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 340 Tm (- Cenario com titulo, tempo, pontuacao e instrucao curta.) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 324 Tm (- Ator Lixo com fantasias como jornal, garrafa plastica, vidro e lata.) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 308 Tm (- Quatro atores de lixeira: papel, plastico, vidro e metal.) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 292 Tm (- Feedback instantaneo com mensagens de acerto e erro.) Tj ET
+BT /F2 14 Tf 1 0 0 1 50 268 Tm (5. Resultado esperado) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 244 Tm (Espera-se que o jogo contribua para a conscientizacao sobre coleta seletiva,) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 228 Tm (reforcando o aprendizado de forma ludica, rapida e acessivel. A proposta pode) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 212 Tm (ser usada em sala de aula, feiras escolares ou atividades com a comunidade.) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 12 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R /F3 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 2541 >>
+stream
+BT /F2 14 Tf 1 0 0 1 50 790 Tm (6. Roteiro de implementacao no Scratch) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 766 Tm (Variaveis do projeto: pontuacao, tempo, itemAtual e tipoAtual.) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 742 Tm (Atores do projeto: Lixo, Lixeira Papel, Lixeira Plastico, Lixeira Vidro e) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 726 Tm (Lixeira Metal.) Tj ET
+BT /F2 11 Tf 1 0 0 1 50 702 Tm (Palco:) Tj ET
+BT /F3 10 Tf 1 0 0 1 50 689 Tm (quando bandeira verde for clicada) Tj ET
+BT /F3 10 Tf 1 0 0 1 50 676 Tm (defina [pontuacao] para 0) Tj ET
+BT /F3 10 Tf 1 0 0 1 50 663 Tm (defina [tempo] para 60) Tj ET
+BT /F3 10 Tf 1 0 0 1 50 650 Tm (transmita [novo item]) Tj ET
+BT /F3 10 Tf 1 0 0 1 50 637 Tm (repita ate <tempo = 0>) Tj ET
+BT /F3 10 Tf 1 0 0 1 50 624 Tm (  espere 1 segundos) Tj ET
+BT /F3 10 Tf 1 0 0 1 50 611 Tm (  mude [tempo] por -1) Tj ET
+BT /F3 10 Tf 1 0 0 1 50 598 Tm (fim) Tj ET
+BT /F3 10 Tf 1 0 0 1 50 585 Tm (transmita [fim de jogo]) Tj ET
+BT /F3 10 Tf 1 0 0 1 50 572 Tm () Tj ET
+BT /F2 11 Tf 1 0 0 1 50 559 Tm (Ator Lixo:) Tj ET
+BT /F3 10 Tf 1 0 0 1 50 546 Tm (quando eu receber [novo item]) Tj ET
+BT /F3 10 Tf 1 0 0 1 50 533 Tm (mostre) Tj ET
+BT /F3 10 Tf 1 0 0 1 50 520 Tm (va para x: 0 y: 120) Tj ET
+BT /F3 10 Tf 1 0 0 1 50 507 Tm (defina [itemAtual] para aleatorio entre 1 e 8) Tj ET
+BT /F3 10 Tf 1 0 0 1 50 494 Tm (troque a fantasia e defina [tipoAtual]) Tj ET
+BT /F3 10 Tf 1 0 0 1 50 481 Tm () Tj ET
+BT /F2 11 Tf 1 0 0 1 50 468 Tm (Exemplo de lixeira:) Tj ET
+BT /F3 10 Tf 1 0 0 1 50 455 Tm (quando este ator for clicado) Tj ET
+BT /F3 10 Tf 1 0 0 1 50 442 Tm (se <tocando em [Lixo]> e <tipoAtual = papel> entao) Tj ET
+BT /F3 10 Tf 1 0 0 1 50 429 Tm (  mude [pontuacao] por 1) Tj ET
+BT /F3 10 Tf 1 0 0 1 50 416 Tm (  diga [Acertou!] por 1 segundos) Tj ET
+BT /F3 10 Tf 1 0 0 1 50 403 Tm (  transmita [acertou]) Tj ET
+BT /F3 10 Tf 1 0 0 1 50 390 Tm (senao) Tj ET
+BT /F3 10 Tf 1 0 0 1 50 377 Tm (  diga [Esse item nao vai aqui.] por 1 segundos) Tj ET
+BT /F3 10 Tf 1 0 0 1 50 364 Tm (fim) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 343 Tm (O roteiro completo de blocos foi salvo no arquivo scratch_blocos.md, com as) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 327 Tm (falas e a logica de cada lixeira separadas para facilitar a montagem no editor.) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 303 Tm (Conclusao: a proposta atende ao problema identificado, aplica os quatro pilares) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 287 Tm (do Pensamento Computacional e apresenta uma representacao clara de como a) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 271 Tm (solucao seria implementada no Scratch.) Tj ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 12 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R /F3 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Type /Pages /Count 4 /Kids [5 0 R 7 0 R 9 0 R 11 0 R] >>
+endobj
+13 0 obj
+<< /Type /Catalog /Pages 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000112 00000 n 
+0000000214 00000 n 
+0000000309 00000 n 
+0000003693 00000 n 
+0000003840 00000 n 
+0000004305 00000 n 
+0000004452 00000 n 
+0000007251 00000 n 
+0000007398 00000 n 
+0000009992 00000 n 
+0000010141 00000 n 
+0000010218 00000 n 
+trailer
+<< /Size 14 /Root 13 0 R >>
+startxref
+10269
+%%EOF
