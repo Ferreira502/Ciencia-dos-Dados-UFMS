@@ -1,12 +1,12 @@
-# 🎓 Atividades Acadêmicas - UFMS
+# Atividades Acadêmicas - UFMS
 
 Este repositório foi criado para organizar, centralizar e acompanhar todas as atividades, projetos, laboratórios e desafios desenvolvidos durante a minha trajetória na **Universidade Federal de Mato Grosso do Sul (UFMS)**.
 
 ---
 
-## 📚 Organização por Semestre
+## Organização por Semestre
 
-### 📅 1º Semestre / Semestre Atual
+### 1º Semestre / Semestre Atual
 
 - ALGORITMOS E PROGRAMAÇÃO
 - EAD E SISTEMAS DE INFORMAÇÃO DA UFMS
