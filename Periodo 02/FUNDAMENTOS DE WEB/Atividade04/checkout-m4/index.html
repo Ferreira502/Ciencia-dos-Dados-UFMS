@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista de Tarefas Diárias</title>
+
+    <!-- Vínculo com o Bootstrap-->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4Q6Gf2aSP4eDXB8Miphtr37CMZZQ5oXLH2yaXMJ2w8e2ZtHTl7GptT4jmndRuHDT" crossorigin="anonymous">
+</head>
+<body>
+    <center>
+        <h1>Lista de Tarefas Diárias</h1>
+        <h3>Fundamentos de Web</h3>
+    </center>
+
+    <div id="app"></div>
+
+
+    <!--Adicionando o script do Vue.JS na nossa página, vamos trabalhar no modo desenvolvedor-->
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    
+
+    <!--Novo Script, será neste espaço que todo o código JavaScript será alocado-->
+    <script>
+        new Vue({   //Criando uma instancia do Vue.js
+            el: '#app',   //Realiza a ligação do script Vue.js com a div no HTML onde o conteúdo será inserido
+
+            //A propriedade template define a aparência do conteúdo
+            template: `   
+            
+           <div class="container">
+                <h2>Cadastrar tarefa</h2>
+                <hr>
+                <div class="form-todo form-group">
+                    <p>
+                        <input type="text" placeholder="Identificação da tarefa" name="identificacao" class="form-control" v-model="identificacao">
+                    </p>
+                    <p>
+                        <textarea placeholder="Descrição da tarefa" name="descricao" class="form-control" v-model="descricao"></textarea>
+                    </p>
+                    <button v-on:click="adicionarTarefa" type="button" class="btn btn-primary">Adicionar</button>
+                </div>   
+
+                <!-- Seção onde serão apresentadas as tarefas cadastradas -->
+                <h2>Minhas tarefas</h2>
+                <div class="list-group">
+                    <div class="list-group-item" v-for="(tarefa, index) in tarefas">
+                        <h4>{{ tarefa.identificacao }}</h4>
+                        <p>{{ tarefa.descricao }}</p>
+                        <div>
+                            <a href="#" title="Excluir" v-on:click.prevent="removerTarefa(index)">Excluir</a>
+                        </div>
+                    </div>
+
+
+                </div>
+                <hr> 
+            </div> `,
+
+            data(){
+                return{
+                    tarefas:[],
+                    identificacao: '',
+                    descricao:''
+                }
+            },
+
+            methods:{
+                //Função responsável por adicionar um item na lista
+                adicionarTarefa() {
+
+
+                    //Código para evitar a inserção de um item em branco
+                    if (this.identificacao.trim() === '' || this.descricao.trim() === ''){
+                        return;
+                    }
+                    
+                    //Adiciona um item na lista
+                    this.tarefas.push({
+                        identificacao: this.identificacao,
+                        descricao: this.descricao
+                    });
+
+                    //Limpa os campos após a inserção
+                    this.identificacao = '';
+                    this.descricao = '';
+
+                },
+
+                //Função para remoção de um item da lista
+                removerTarefa(index){
+                    this.tarefas.splice(index, 1);
+
+                }
+            }
+        })     
+            
+        
+    </script>
+
+</body>
+</html>

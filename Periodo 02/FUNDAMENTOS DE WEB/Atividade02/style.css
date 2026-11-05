@@ -1,0 +1,39 @@
+body {
+    background-color: #eeeeee;
+    color: #333333;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+
+.pagina {
+    background-color: white;
+    width: 600px;
+    margin: 30px auto;
+    border: 1px solid #aaaaaa;
+}
+
+.cabecalho {
+    background-color: #225588;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+.cabecalho h1 {
+    font-size: 28px;
+}
+
+.secao {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #cccccc;
+}
+
+h2 {
+    color: #225588;
+    font-size: 20px;
+}
+
+li {
+    margin: 5px;
+}
